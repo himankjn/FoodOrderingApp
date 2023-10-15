@@ -5,14 +5,14 @@ import classes from './AvailableMeals.module.css';
 const DUMMY_MEALS = [
   {
     id: 'm1',
-    name: 'Sushi',
-    description: 'Finest fish and veggies',
+    name: 'Buffalo Wings',
+    description: 'Chicken wings dipped in vinegar-based cayenne pepper hot sauce and melted butter',
     price: 22.99,
   },
   {
     id: 'm2',
-    name: 'Schnitzel',
-    description: 'A german specialty!',
+    name: 'Classic Lasagna',
+    description: 'Stacked layers of lasagna alternating with delicious fillings such as ragù, béchamel sauce, vegetables, cheeses, and seasonings and spices',
     price: 16.5,
   },
   {
